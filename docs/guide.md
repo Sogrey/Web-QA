@@ -171,7 +171,6 @@ sidebarDepth: 2
 ### :question:  如何实现浏览器内多个标签页之间的通信?  [#29](<https://github.com/Sogrey/Web-QA/issues/29>)
 
 
-## 📁  其他面经库
 
 ## :file_folder: 其他面经库
 
