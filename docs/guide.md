@@ -15,11 +15,55 @@ sidebarDepth: 2
 
 ## :file_folder:HTMl
 
+### :question: html5有哪些新特性、移除了那些元素？如何处理HTML5新标签的浏览器兼容问题？如何区分 HTML 和 HTML5？[#27](<https://github.com/Sogrey/Web-QA/issues/27>)
 
+### :question:  iframe的优缺点？[#28](<https://github.com/Sogrey/Web-QA/issues/28>)
+
+### :question:  HTML与XHTML——二者有什么区别 [#21](<https://github.com/Sogrey/Web-QA/issues/21>)
+
+### :question:  你知道多少种Doctype文档类型？ [#20](<https://github.com/Sogrey/Web-QA/issues/20>)
+
+### :question:  Doctype作用? 严格模式与混杂模式如何区分？它们有何意义? [#19](<https://github.com/Sogrey/Web-QA/issues/19>)
+
+### :question:  说说你对语义化的理解？[#18](<https://github.com/Sogrey/Web-QA/issues/18>)
+
+### :question:  对`<meta></meta>`标签有什么理解  [#86](<https://github.com/Sogrey/Web-QA/issues/86>) 
 
 ## :file_folder:CSS
 
+### :question:  IE 8以下版本的浏览器中的盒模型有什么不同 [#25](<https://github.com/Sogrey/Web-QA/issues/25>)
 
+### :question:  浮动元素引起的问题和解决办法？[#24](<https://github.com/Sogrey/Web-QA/issues/24>)
+
+### :question:  解释下浮动和它的工作原理？清除浮动的技巧 [#23](<https://github.com/Sogrey/Web-QA/issues/23>)
+
+### :question:  常见兼容性问题？ [#22](<https://github.com/Sogrey/Web-QA/issues/22>)
+
+### :question: 为什么要初始化CSS样式。[#15](<https://github.com/Sogrey/Web-QA/issues/15>)
+
+### :question: CSS3有哪些新特性？[#14](<https://github.com/Sogrey/Web-QA/issues/14>)
+
+### :question: 列出display的值，说明他们的作用。position的值， relative和absolute分别是相对于谁进行定位的？[#13](<https://github.com/Sogrey/Web-QA/issues/13>)
+
+### :question: CSS 选择符有哪些？哪些属性可以继承？优先级算法如何计算？ CSS3新增伪类有那些？[#12](<https://github.com/Sogrey/Web-QA/issues/12>)
+
+### :question: 介绍一下CSS的盒子模型？[#11](<https://github.com/Sogrey/Web-QA/issues/11>)
+
+### :question: position的absolute与fixed共同点与不同点 [#10](<https://github.com/Sogrey/Web-QA/issues/10>)
+
+### :question: CSS中 link 和@import 的区别是？[#9](<https://github.com/Sogrey/Web-QA/issues/9>)
+
+### :question: display:none和visibility:hidden的区别？[#8](<https://github.com/Sogrey/Web-QA/issues/8>)
+
+### :question:  解释下 CSS sprites，以及你要如何在页面或网站中使用它。 [#17](<https://github.com/Sogrey/Web-QA/issues/17>) 
+
+### :question: 对BFC规范的理解？[#16](<https://github.com/Sogrey/Web-QA/issues/16>)
+
+### :question:  CSS样式覆盖规则  [#80](<https://github.com/Sogrey/Web-QA/issues/80>) 
+### :question:  CSS3新增了很多的属性，下面一起来分析一下新增的一些属性  [#84](<https://github.com/Sogrey/Web-QA/issues/84>) 
+### :question:  阐述清除浮动的几种方式（常见问题）[#72](<https://github.com/Sogrey/Web-QA/issues/72>)
+### :question:  写一个左中右布局占满屏幕，其中左右两块是固定宽度200 ，中间自适应宽，要求先加载中间块，请写出结构及样式：[#71](<https://github.com/Sogrey/Web-QA/issues/71>)
+### :question:  一个200*200的div在不同分辨率屏幕上下左右居中，用css实现[#70](<https://github.com/Sogrey/Web-QA/issues/70>)
 
 ## :file_folder:JS
 
@@ -41,11 +85,107 @@ sidebarDepth: 2
 
 ### :question: Js数组的拷贝 [#5](<https://github.com/Sogrey/Web-QA/issues/5>)
 
+### :question:  JS 科学计数法转换为正常数值 [#6](<https://github.com/Sogrey/Web-QA/issues/6>)
+
+### :question:  DOM操作——怎样添加、移除、移动、复制、创建和查找节点。[#26](<https://github.com/Sogrey/Web-QA/issues/26>)
+
+### :question:  异步加载和延迟加载 [#52](<https://github.com/Sogrey/Web-QA/issues/52>)
+### :question:  ajax过程 javascript  [#51](<https://github.com/Sogrey/Web-QA/issues/51>)
+### :question:  javascript继承的6种方法 [#50](<https://github.com/Sogrey/Web-QA/issues/50>)
+### :question:  javascript对象的几种创建方式  [#49](<https://github.com/Sogrey/Web-QA/issues/49>)
+### :question:  性能优化的方法？ [#46](<https://github.com/Sogrey/Web-QA/issues/46>)
+### :question:  对Node的优点和缺点提出了自己的看法？ [#45](<https://github.com/Sogrey/Web-QA/issues/45>)
+### :question:  什么叫优雅降级和渐进增强？ [#44](<https://github.com/Sogrey/Web-QA/issues/44>)
+### :question:  如何判断当前脚本运行在浏览器还是node环境中？ [#43](<https://github.com/Sogrey/Web-QA/issues/43>)
+### :question:  JavaScript中的作用域与变量声明提升？ [#42](<https://github.com/Sogrey/Web-QA/issues/42>)
+### :question:  哪些操作会造成内存泄漏？ [#41](<https://github.com/Sogrey/Web-QA/issues/41>)
+### :question:  .call() 和 .apply() 的区别和作用？ [#40](<https://github.com/Sogrey/Web-QA/issues/40>)
+### :question:  documen.write和 innerHTML的区别  [#39](<https://github.com/Sogrey/Web-QA/issues/39>)
+### :question:  如何解决跨域问题?  [#38](<https://github.com/Sogrey/Web-QA/issues/38>)
+### :question:  js延迟加载的方式有哪些？  [#37](<https://github.com/Sogrey/Web-QA/issues37>) 
+### :question:  new操作符具体干了什么呢?  [#36](<https://github.com/Sogrey/Web-QA/issues/36>)
+### :question:  null和undefined的区别？ [#35](<https://github.com/Sogrey/Web-QA/issues/35>)
+### :question:  线程与进程的区别 [#31](<https://github.com/Sogrey/Web-QA/issues/31>)
+### :question:  bootstrap响应式实现的原理 [#78](<https://github.com/Sogrey/Web-QA/issues/78>)
+### :question:  px和em的区别 [#77](<https://github.com/Sogrey/Web-QA/issues/77>) 
+### :question:  http 和 https 有何区别？如何灵活使用？[#76](<https://github.com/Sogrey/Web-QA/issues/76>)
+### :question:  请描述一下 cookies sessionStorage和localstorage区别 [#75](<https://github.com/Sogrey/Web-QA/issues/75>)
+### :question:  Javascript中的定时器有哪些？他们的区别及用法是什么？[#74](<https://github.com/Sogrey/Web-QA/issues/74>)
+### :question:  拖拽会用到哪些事件[#73](<https://github.com/Sogrey/Web-QA/issues/73>)
+### :question:  js操作获取和设置cookie[#69](<https://github.com/Sogrey/Web-QA/issues/69>) 
+### :question:  js数组去重[#68](<https://github.com/Sogrey/Web-QA/issues/68>)
+### :question:  如何获取UA？[#67](<https://github.com/Sogrey/Web-QA/issues/67>) 
+### :question:  js对象的深度克隆 [#65](<https://github.com/Sogrey/Web-QA/issues/65>)
+### :question:  ajax 是什么?ajax 的交互模型?同步和异步的区别?如何解决跨域问题? [#64](<https://github.com/Sogrey/Web-QA/issues/64>)
+### :question:  IE与火狐的事件机制有什么区别？ 如何阻止冒泡？[#63](<https://github.com/Sogrey/Web-QA/issues/63>)
+### :question:  JavaScript原型，原型链 ? 有什么特点？[#62](<https://github.com/Sogrey/Web-QA/issues/62>)
+### :question:  写一个通用的事件侦听器函数?[#61](<https://github.com/Sogrey/Web-QA/issues/61>) 
+### :question:  eval是做什么的？[#60](<https://github.com/Sogrey/Web-QA/issues/60>)
+### :question:  哪些地方会出现css阻塞，哪些地方会出现js阻塞？[#59](<https://github.com/Sogrey/Web-QA/issues/59>)
+### :question:  GET和POST的区别，何时使用POST？[#58](<https://github.com/Sogrey/Web-QA/issues/58>)
+### :question:  为什么要有同源限制？[#57](<https://github.com/Sogrey/Web-QA/issues/57>)
+### :question:  请解释一下 JavaScript 的同源策略。[#56](<https://github.com/Sogrey/Web-QA/issues/56>)
+### :question:  Flash、Ajax各自的优缺点，在使用中如何取舍？[#55](<https://github.com/Sogrey/Web-QA/issues/55>)
+### :question:  javascript里面的继承怎么实现，如何避免原型链上面的对象共享 [#54](<https://github.com/Sogrey/Web-QA/issues/54>)
+### :question:  attribute和property的区别是什么 [#102](<https://github.com/Sogrey/Web-QA/issues/102>)
+### :question:  编写一个方法求一个字符串的字节长度  [#101](<https://github.com/Sogrey/Web-QA/issues/101>) 
+### :question:  实现一个函数clone，可以对JavaScript中的5种主要的数据类型（包括Number、String、Object、Array、Boolean）进行值复制 [#100](<https://github.com/Sogrey/Web-QA/issues/100>) 
+### :question:  defer和async  [#99](<https://github.com/Sogrey/Web-QA/issues/99>) 
+### :question:  ES6的了解  [#98](<https://github.com/Sogrey/Web-QA/issues/98>) 
+### :question:  快速 排序的思想并实现一个快排？  [#97](<https://github.com/Sogrey/Web-QA/issues/97>) 
+### :question:  栈和堆的区别？ [#96](<https://github.com/Sogrey/Web-QA/issues/96>) 
+### :question:  栈和队列的区别?  [#95](<https://github.com/Sogrey/Web-QA/issues/95>)  
+### :question:  TCP和UDP的区别  [#93](<https://github.com/Sogrey/Web-QA/issues/93>)  
+### :question:  说说TCP传输的三次握手四次挥手策略  [#92](<https://github.com/Sogrey/Web-QA/issues/92>) 
+### :question:  XML和JSON的区别？ [#91](<https://github.com/Sogrey/Web-QA/issues/91>) 
+### :question:  jquery中$.get()提交和$.post()提交有区别吗？ [#90](<https://github.com/Sogrey/Web-QA/issues/90>) 
+### :question:  $(document).ready()方法和window.onload有什么区别？ [#89](<https://github.com/Sogrey/Web-QA/issues/89>) 
+### :question:  判断一个字符串中出现次数最多的字符，统计这个次数  [#88](<https://github.com/Sogrey/Web-QA/issues/88>) 
+### :question:  JavaScript中如何检测一个变量是一个String类型？请写出函数实现  [#87](<https://github.com/Sogrey/Web-QA/issues/87>) 
+### :question:  jQuery的事件委托方法bind 、live、delegate、on之间有什么区别？ [#83](<https://github.com/Sogrey/Web-QA/issues/83>) 
+### :question:  请解释JSONP的工作原理，以及它为什么不是真正的AJAX。 [#82](<https://github.com/Sogrey/Web-QA/issues/82>) 
+### :question:  什么是闭包，如何使用它，为什么要使用它？ [#81](<https://github.com/Sogrey/Web-QA/issues/81>) 
+### :question:  关于JS事件冒泡与JS事件代理（事件委托） [#79](<https://github.com/Sogrey/Web-QA/issues/79>) 
 
 
+## 📁 网站及优化
+
+### :question:  什么是 FOUC（无样式内容闪烁）？你如何来避免 FOUC？ [#34](<https://github.com/Sogrey/Web-QA/issues/34>)
+### :question:  请说出三种减少页面加载时间的方法。 [#33](<https://github.com/Sogrey/Web-QA/issues/33>)
+### :question:  如何对网站的文件和资源进行优化？ [#32](<https://github.com/Sogrey/Web-QA/issues/32>)
+### :question:  webSocket如何兼容低浏览器？ [#30](<https://github.com/Sogrey/Web-QA/issues/30>)
+### :question:  从输入url到显示页面，都经历了什么  [#85](<https://github.com/Sogrey/Web-QA/issues/85>) 
+### :question:  网站重构的理解？[#66](<https://github.com/Sogrey/Web-QA/issues/66>)
+### :question:  一个页面从输入 URL 到页面加载显示完成，这个过程中都发生了什么？ [#48](<https://github.com/Sogrey/Web-QA/issues/48>)
+### :question:  http状态码有那些？分别代表是什么意思？ [#47](<https://github.com/Sogrey/Web-QA/issues/47>)
+
+## 📁  网络及安全
+
+### :question:  前端安全问题？[#53](<https://github.com/Sogrey/Web-QA/issues/53>)
+### :question:  sql注入原理  [#94](<https://github.com/Sogrey/Web-QA/issues/94>) 
+### :question:  说说网络分层里七层模型是哪七层 [#103](<https://github.com/Sogrey/Web-QA/issues/103>)
+
+## 📁  存储
+
+### :question: 谈谈Cookie的优点和弊端 [#7](<https://github.com/Sogrey/Web-QA/issues/7>)
+### :question:  如何实现浏览器内多个标签页之间的通信?  [#29](<https://github.com/Sogrey/Web-QA/issues/29>)
 
 
+## 📁  其他面经库
 
+## :file_folder: 其他面经库
+
+[JavaScript 教程](<https://wangdoc.com/javascript/index.html>)
+
+[前端面试经典题目合集](https://www.nowcoder.com/ta/front-end-interview)
+
+**yygmind/blog**
+
+<div class="github-widget" data-repo="yygmind/blog"></div>
+**markyun/My-blog**
+
+<div class="github-widget" data-repo="markyun/My-blog"></div>
+<div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
 
 
