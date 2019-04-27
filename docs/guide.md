@@ -138,7 +138,7 @@ sidebarDepth: 2
 ### :question:  TCP和UDP的区别  [#93](<https://github.com/Sogrey/Web-QA/issues/93>)  
 ### :question:  说说TCP传输的三次握手四次挥手策略  [#92](<https://github.com/Sogrey/Web-QA/issues/92>) 
 ### :question:  XML和JSON的区别？ [#91](<https://github.com/Sogrey/Web-QA/issues/91>) 
-### :question:  jquery中$.get()提交和$.post()提交有区别吗？ [#90](<https://github.com/Sogrey/Web-QA/issues/90>) 
+### :question:  jquery中.get()提交和​.post()提交有区别吗？ [#90](<https://github.com/Sogrey/Web-QA/issues/90>) 
 ### :question:  $(document).ready()方法和window.onload有什么区别？ [#89](<https://github.com/Sogrey/Web-QA/issues/89>) 
 ### :question:  判断一个字符串中出现次数最多的字符，统计这个次数  [#88](<https://github.com/Sogrey/Web-QA/issues/88>) 
 ### :question:  JavaScript中如何检测一个变量是一个String类型？请写出函数实现  [#87](<https://github.com/Sogrey/Web-QA/issues/87>) 
@@ -146,6 +146,10 @@ sidebarDepth: 2
 ### :question:  请解释JSONP的工作原理，以及它为什么不是真正的AJAX。 [#82](<https://github.com/Sogrey/Web-QA/issues/82>) 
 ### :question:  什么是闭包，如何使用它，为什么要使用它？ [#81](<https://github.com/Sogrey/Web-QA/issues/81>) 
 ### :question:  关于JS事件冒泡与JS事件代理（事件委托） [#79](<https://github.com/Sogrey/Web-QA/issues/79>) 
+
+### ❓  SERVLET API中forward() 与redirect()的区别？[#104](<https://github.com/Sogrey/Web-QA/issues/104>)
+
+
 
 
 ## 📁 网站及优化
@@ -181,6 +185,7 @@ sidebarDepth: 2
 **yygmind/blog**
 
 <div class="github-widget" data-repo="yygmind/blog"></div>
+
 **markyun/My-blog**
 
 <div class="github-widget" data-repo="markyun/My-blog"></div>
