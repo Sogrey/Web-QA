@@ -29,6 +29,10 @@ sidebarDepth: 2
 
 ### :question:  对`<meta></meta>`标签有什么理解  [#86](<https://github.com/Sogrey/Web-QA/issues/86>) 
 
+###  ❓  关于SVG，内联SVG标签与Image标签引入SVG有何区别？[#107](<https://github.com/Sogrey/Web-QA/issues/107>)
+
+
+
 ## :file_folder:CSS
 
 ### :question:  IE 8以下版本的浏览器中的盒模型有什么不同 [#25](<https://github.com/Sogrey/Web-QA/issues/25>)
@@ -117,6 +121,9 @@ sidebarDepth: 2
 ### :question:  如何获取UA？[#67](<https://github.com/Sogrey/Web-QA/issues/67>) 
 ### :question:  js对象的深度克隆 [#65](<https://github.com/Sogrey/Web-QA/issues/65>)
 ### :question:  ajax 是什么?ajax 的交互模型?同步和异步的区别?如何解决跨域问题? [#64](<https://github.com/Sogrey/Web-QA/issues/64>)
+
+### :question: ​js异步执行的四种方式 [#106](<https://github.com/Sogrey/Web-QA/issues/106>)
+
 ### :question:  IE与火狐的事件机制有什么区别？ 如何阻止冒泡？[#63](<https://github.com/Sogrey/Web-QA/issues/63>)
 ### :question:  JavaScript原型，原型链 ? 有什么特点？[#62](<https://github.com/Sogrey/Web-QA/issues/62>)
 ### :question:  写一个通用的事件侦听器函数?[#61](<https://github.com/Sogrey/Web-QA/issues/61>) 

@@ -18,6 +18,7 @@ module.exports = {
     nav:[ // 导航栏配置
 	  {text: '征题', link: 'https://github.com/Sogrey/Web-QA/issues/105' },	
       {text: 'Android技术面试题', link: 'https://sogrey.github.io/Android_QA/' },
+      {text: '优质博文/公众号文章', link: 'https://sogrey.github.io/blogs/' },	 
       {text: 'Github', link: 'https://github.com/Sogrey/Web-QA'}      
     ],
     sidebar: 'auto', // 侧边栏配置
