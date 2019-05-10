@@ -89,6 +89,8 @@ sidebarDepth: 2
 
 ### :question: Js数组的拷贝 [#5](<https://github.com/Sogrey/Web-QA/issues/5>)
 
+### ❓ JavaScript中的浅拷贝与深拷贝 [#108](<https://github.com/Sogrey/Web-QA/issues/108>)
+
 ### :question:  JS 科学计数法转换为正常数值 [#6](<https://github.com/Sogrey/Web-QA/issues/6>)
 
 ### :question:  DOM操作——怎样添加、移除、移动、复制、创建和查找节点。[#26](<https://github.com/Sogrey/Web-QA/issues/26>)
