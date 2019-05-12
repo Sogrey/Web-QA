@@ -155,10 +155,8 @@ sidebarDepth: 2
 ### :question:  请解释JSONP的工作原理，以及它为什么不是真正的AJAX。 [#82](<https://github.com/Sogrey/Web-QA/issues/82>) 
 ### :question:  什么是闭包，如何使用它，为什么要使用它？ [#81](<https://github.com/Sogrey/Web-QA/issues/81>) 
 ### :question:  关于JS事件冒泡与JS事件代理（事件委托） [#79](<https://github.com/Sogrey/Web-QA/issues/79>) 
-
 ### ❓  SERVLET API中forward() 与redirect()的区别？[#104](<https://github.com/Sogrey/Web-QA/issues/104>)
-
-
+### ❓ javascript 一个复杂的对象，怎么通过value获取到 [#109](<https://github.com/Sogrey/Web-QA/issues/109>)
 
 
 ## 📁 网站及优化
