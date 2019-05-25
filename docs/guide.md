@@ -108,7 +108,7 @@ sidebarDepth: 2
 ### :question:  .call() 和 .apply() 的区别和作用？ [#40](<https://github.com/Sogrey/Web-QA/issues/40>)
 ### :question:  documen.write和 innerHTML的区别  [#39](<https://github.com/Sogrey/Web-QA/issues/39>)
 ### :question:  如何解决跨域问题?  [#38](<https://github.com/Sogrey/Web-QA/issues/38>)
-### :question:  js延迟加载的方式有哪些？  [#37](<https://github.com/Sogrey/Web-QA/issues37>) 
+### :question:  js延迟加载的方式有哪些？  [#37](<https://github.com/Sogrey/Web-QA/issues/37>) 
 ### :question:  new操作符具体干了什么呢?  [#36](<https://github.com/Sogrey/Web-QA/issues/36>)
 ### :question:  null和undefined的区别？ [#35](<https://github.com/Sogrey/Web-QA/issues/35>)
 ### :question:  线程与进程的区别 [#31](<https://github.com/Sogrey/Web-QA/issues/31>)
@@ -156,7 +156,7 @@ sidebarDepth: 2
 ### :question:  什么是闭包，如何使用它，为什么要使用它？ [#81](<https://github.com/Sogrey/Web-QA/issues/81>) 
 ### :question:  关于JS事件冒泡与JS事件代理（事件委托） [#79](<https://github.com/Sogrey/Web-QA/issues/79>) 
 ### ❓  SERVLET API中forward() 与redirect()的区别？[#104](<https://github.com/Sogrey/Web-QA/issues/104>)
-### ❓ javascript 一个复杂的对象，怎么通过value获取到 [#109](<https://github.com/Sogrey/Web-QA/issues/109>)
+### ❓ javascript 一个复杂的对象，怎么通过value获取到key [#109](<https://github.com/Sogrey/Web-QA/issues/109>)
 
 
 ## 📁 网站及优化
