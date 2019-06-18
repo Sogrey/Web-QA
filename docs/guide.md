@@ -185,7 +185,7 @@ sidebarDepth: 2
 
 ## :file_folder: 其他面经库
 
-<div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
+
 
 [JavaScript 教程](<https://wangdoc.com/javascript/index.html>)
 
@@ -203,6 +203,10 @@ sidebarDepth: 2
 **javascript-questions**
 <div class="github-widget" data-repo="lydiahallie/javascript-questions"></div>
 [送你43道JavaScript面试题](https://segmentfault.com/a/1190000019496107)
+
+
+
+<script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script>
 
 
 
