@@ -185,6 +185,8 @@ sidebarDepth: 2
 
 ## :file_folder: 其他面经库
 
+<div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
+
 [JavaScript 教程](<https://wangdoc.com/javascript/index.html>)
 
 [前端面试经典题目合集](https://www.nowcoder.com/ta/front-end-interview)
@@ -196,7 +198,12 @@ sidebarDepth: 2
 **markyun/My-blog**
 
 <div class="github-widget" data-repo="markyun/My-blog"></div>
-<div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
+
+
+**javascript-questions**
+<div class="github-widget" data-repo="lydiahallie/javascript-questions"></div>
+[送你43道JavaScript面试题](https://segmentfault.com/a/1190000019496107)
+
 
 
 
