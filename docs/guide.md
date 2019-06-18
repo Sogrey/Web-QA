@@ -206,7 +206,7 @@ sidebarDepth: 2
 
 
 
-<script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script>
+<div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
 
 
