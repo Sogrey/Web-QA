@@ -191,6 +191,8 @@ sidebarDepth: 2
 
 [前端面试经典题目合集](https://www.nowcoder.com/ta/front-end-interview)
 
+[送你43道JavaScript面试题](https://segmentfault.com/a/1190000019496107)
+
 **yygmind/blog**
 
 <div class="github-widget" data-repo="yygmind/blog"></div>
@@ -202,7 +204,11 @@ sidebarDepth: 2
 
 **javascript-questions**
 <div class="github-widget" data-repo="lydiahallie/javascript-questions"></div>
-[送你43道JavaScript面试题](https://segmentfault.com/a/1190000019496107)
+
+**前端面试每日 3+1（每日三问）haizlin/fe-interview**
+<div class="github-widget" data-repo="haizlin/fe-interview"></div>
+
+
 
 
 
