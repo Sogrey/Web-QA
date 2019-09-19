@@ -187,33 +187,29 @@ sidebarDepth: 2
 
 
 
-[JavaScript 教程](<https://wangdoc.com/javascript/index.html>)
+- [JavaScript 教程](<https://wangdoc.com/javascript/index.html>)
+- [前端面试经典题目合集](https://www.nowcoder.com/ta/front-end-interview)
+- [送你43道JavaScript面试题](https://segmentfault.com/a/1190000019496107)
+- [前端经典面试题(60道前端面试题包含JS、CSS、React、网络、浏览器、程序题等)](https://segmentfault.com/a/1190000020391424)
 
-[前端面试经典题目合集](https://www.nowcoder.com/ta/front-end-interview)
-
-[送你43道JavaScript面试题](https://segmentfault.com/a/1190000019496107)
-
-**yygmind/blog**
+- **yygmind/blog**
 
 <div class="github-widget" data-repo="yygmind/blog"></div>
-
-**markyun/My-blog**
+- **markyun/My-blog**
 
 <div class="github-widget" data-repo="markyun/My-blog"></div>
 
+- **javascript-questions**
 
-**javascript-questions**
 <div class="github-widget" data-repo="lydiahallie/javascript-questions"></div>
+- **前端面试每日 3+1（每日三问）haizlin/fe-interview**
 
-**前端面试每日 3+1（每日三问）haizlin/fe-interview**
 <div class="github-widget" data-repo="haizlin/fe-interview"></div>
 
 
 
 
-
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
-
 
 
 
