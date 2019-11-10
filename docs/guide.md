@@ -158,6 +158,9 @@ sidebarDepth: 2
 ### :question:  ['1','2','3'].map(parseInt) 输出什么,为什么? [#117](<https://github.com/Sogrey/Web-QA/issues/117>) 
 ### :question:  fetch发送2次请求的原因 [#119](<https://github.com/Sogrey/Web-QA/issues/119>) 
 ### :question:  var与let区别 [#142](<https://github.com/Sogrey/Web-QA/issues/142>) 
+### :question:  如何从浏览器的URL中获取查询字符串参数? [#146](<https://github.com/Sogrey/Web-QA/issues/146>) 
+### :question:  JavaScript里函数参数arguments是数组吗？  [#147](<https://github.com/Sogrey/Web-QA/issues/147>) 
+
 
 
 ## 📁 模块化&ES5、ES6
@@ -205,6 +208,8 @@ sidebarDepth: 2
 ### :question:  http状态码有那些？分别代表是什么意思？ [#47](<https://github.com/Sogrey/Web-QA/issues/47>)
 ### :question:  说几条web前端优化策略 [#129](<https://github.com/Sogrey/Web-QA/issues/129>)
 
+### :question:  为什么利用多个域名来提供网站资源会更有效？  [#145](<https://github.com/Sogrey/Web-QA/issues/145>)
+
 
 ## 📁  网络及安全
 
@@ -242,11 +247,7 @@ sidebarDepth: 2
 
 <div class="github-widget" data-repo="haizlin/fe-interview"></div>
 
-
-
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
-
-
 
 
 
