@@ -155,12 +155,14 @@ sidebarDepth: 2
 ### :question:  什么是防抖和节流？有什么区别？如何实现？ [#110](<https://github.com/Sogrey/Web-QA/issues/110>) 
 ### :question:  get请求传参长度的误区、get和post请求在缓存方面的区别 [#111](<https://github.com/Sogrey/Web-QA/issues/111>) 
 ### :question:  定时器的执行顺序或机制？ [#116](<https://github.com/Sogrey/Web-QA/issues/116>) 
-### :question:  ['1','2','3'].map(parseInt) 输出什么,为什么? [#117](<https://github.com/Sogrey/Web-QA/issues/117>) 
+### :question:  `['1','2','3'].map(parseInt)` 输出什么,为什么? [#117](<https://github.com/Sogrey/Web-QA/issues/117>) 
 ### :question:  fetch发送2次请求的原因 [#119](<https://github.com/Sogrey/Web-QA/issues/119>) 
 ### :question:  var与let区别 [#142](<https://github.com/Sogrey/Web-QA/issues/142>) 
 ### :question:  如何从浏览器的URL中获取查询字符串参数? [#146](<https://github.com/Sogrey/Web-QA/issues/146>) 
 ### :question:  JavaScript里函数参数arguments是数组吗？  [#147](<https://github.com/Sogrey/Web-QA/issues/147>) 
-
+### :question:  如何用JavaScript动态创建link标签到head里？[#148](<https://github.com/Sogrey/Web-QA/issues/148>) 
+### :question:  如何用javascript 动态脚本添加script标签到body里？[#149](<https://github.com/Sogrey/Web-QA/issues/149>) 
+### :question:  js如何将两个对象合并成一个对象？[#150](<https://github.com/Sogrey/Web-QA/issues/150>) 
 
 
 ## 📁 模块化&ES5、ES6
@@ -246,10 +248,7 @@ sidebarDepth: 2
 - **前端面试每日 3+1（每日三问）haizlin/fe-interview**
 
 <div class="github-widget" data-repo="haizlin/fe-interview"></div>
-
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
-
-
 
 
 
