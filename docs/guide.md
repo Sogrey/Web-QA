@@ -225,11 +225,14 @@ sidebarDepth: 2
 ### :question: 彻底理解cookie，session，token [#144](<https://github.com/Sogrey/Web-QA/issues/144>)
 ### :question:  如何实现浏览器内多个标签页之间的通信?  [#29](<https://github.com/Sogrey/Web-QA/issues/29>)
 
+## 📁  H5移动端适配
+
+### :question: 移动端唤起app [#151](<https://github.com/Sogrey/Web-QA/issues/151>)
+### :question: 取消input在ios下，输入的时候英文首字母的默认大写 [#152](<https://github.com/Sogrey/Web-QA/issues/152>)
+### :question:android 上去掉语音输入按钮 [#153](<https://github.com/Sogrey/Web-QA/issues/153>)
 
 
 ## :file_folder: 其他面经库
-
-
 
 - [JavaScript 教程](<https://wangdoc.com/javascript/index.html>)
 - [前端面试经典题目合集](https://www.nowcoder.com/ta/front-end-interview)
@@ -248,8 +251,10 @@ sidebarDepth: 2
 - **前端面试每日 3+1（每日三问）haizlin/fe-interview**
 
 <div class="github-widget" data-repo="haizlin/fe-interview"></div>
-<div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
+- **helloyoucan/knowledge**
 
+<div class="github-widget" data-repo="helloyoucan/knowledge"></div>
+<div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
 
 
