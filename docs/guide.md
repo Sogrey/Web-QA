@@ -254,8 +254,12 @@ sidebarDepth: 2
 - **helloyoucan/knowledge**
 
 <div class="github-widget" data-repo="helloyoucan/knowledge"></div>
-<div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
+- **JavaScript 进阶问题列表 javascript-questions**
 
+<div class="github-widget" data-repo="lydiahallie/javascript-questions"></div>
+
+
+<div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
 
 
