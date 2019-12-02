@@ -257,10 +257,11 @@ sidebarDepth: 2
 - **JavaScript 进阶问题列表 javascript-questions**
 
 <div class="github-widget" data-repo="lydiahallie/javascript-questions"></div>
+- **CSS 奇技淫巧 chokcoco/iCSS**
 
+<div class="github-widget" data-repo="chokcoco/iCSS"></div>
 
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
-
 
 
 
