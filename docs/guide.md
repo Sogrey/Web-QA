@@ -260,6 +260,15 @@ sidebarDepth: 2
 - **CSS 奇技淫巧 chokcoco/iCSS**
 
 <div class="github-widget" data-repo="chokcoco/iCSS"></div>
+- **笔试面试知识整理 HIT-Alibaba/interview**
+
+<div class="github-widget" data-repo="HIT-Alibaba/interview"></div>
+- **前端开发面试题大收集，前端面试集锦 paddingme/Front-end-Web-Development-Interview-Question**
+
+<div class="github-widget" data-repo="paddingme/Front-end-Web-Development-Interview-Question"></div>
+- **前端开发面试题大收集，前端面试集锦 paddingme/Front-end-Web-Development-Interview-Question**
+
+<div class="github-widget" data-repo="paddingme/Front-end-Web-Development-Interview-Question"></div>
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
 
