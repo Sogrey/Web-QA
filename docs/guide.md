@@ -253,6 +253,9 @@ sidebarDepth: 2
 - **前端面试每日 3+1（每日三问）haizlin/fe-interview**
 
 <div class="github-widget" data-repo="haizlin/fe-interview"></div>
+- **cucygh/fe-material** cucygh/fe-material
+
+<div class="github-widget" data-repo="cucygh/fe-material"></div>
 - **helloyoucan/knowledge**
 
 <div class="github-widget" data-repo="helloyoucan/knowledge"></div>
