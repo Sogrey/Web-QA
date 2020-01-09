@@ -165,7 +165,8 @@ sidebarDepth: 2
 ### :question:  js如何将两个对象合并成一个对象？[#150](<https://github.com/Sogrey/Web-QA/issues/150>) 
 ### :question:  JS中的位置和宽度：clientWidth、offsetWidth、scrollWidth等区别？[#154](<https://github.com/Sogrey/Web-QA/issues/154>) 
 ### :question:  typeof运算符和instanceof运算符以及isPrototypeOf()方法的区别[#156](<https://github.com/Sogrey/Web-QA/issues/156>) 
-### :question:  如何将相同属性的数组对象合并并统计个数？[#157](<https://github.com/Sogrey/Web-QA/issues/157>) 
+### :question:  如何将相同属性的数组对象合并并统计个数？[#157](<https://github.com/Sogrey/Web-QA/issues/157>)
+### :question:  JS中的“use strict” 严格模式[#158](<https://github.com/Sogrey/Web-QA/issues/158>)
 
 ## 📁 模块化&ES5、ES6
 
