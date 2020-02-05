@@ -174,7 +174,7 @@ sidebarDepth: 2
 ### :question:  模块化发展历程 [#112](<https://github.com/Sogrey/Web-QA/issues/112>) 
 ### :question:  ES5的继承和ES6的继承有什么区别？ [#114](<https://github.com/Sogrey/Web-QA/issues/114>) 
 ### :question:  ES6下 `for-in` 循环的坑 [#159](<https://github.com/Sogrey/Web-QA/issues/159>) 
-
+### :question:  JavaScript 中，class 能够创建一个类，function 也能创建一个类，两者创建的类有什么区别？[#160](<https://github.com/Sogrey/Web-QA/issues/160>)
 
 ## 📁 node.js
 
