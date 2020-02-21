@@ -242,6 +242,8 @@ sidebarDepth: 2
 - [前端面试经典题目合集](https://www.nowcoder.com/ta/front-end-interview)
 - [送你43道JavaScript面试题](https://segmentfault.com/a/1190000019496107)
 - [前端经典面试题(60道前端面试题包含JS、CSS、React、网络、浏览器、程序题等)](https://segmentfault.com/a/1190000020391424)
+- [JavaScript中各种源码实现（前端面试笔试必备）](https://segmentfault.com/a/1190000021758529)
+- [前端开发文档 @寒青](https://whjin.github.io/frontend-dev-doc/)
 
 - **yygmind/blog**
 
