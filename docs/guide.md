@@ -167,6 +167,8 @@ sidebarDepth: 2
 ### :question:  typeof运算符和instanceof运算符以及isPrototypeOf()方法的区别[#156](<https://github.com/Sogrey/Web-QA/issues/156>) 
 ### :question:  如何将相同属性的数组对象合并并统计个数？[#157](<https://github.com/Sogrey/Web-QA/issues/157>)
 ### :question:  JS中的“use strict” 严格模式[#158](<https://github.com/Sogrey/Web-QA/issues/158>)
+### :question:  JS 对象排序，根据对象的某一属性 [#161](<https://github.com/Sogrey/Web-QA/issues/161>)
+
 
 ## 📁 模块化&ES5、ES6
 
