@@ -278,9 +278,7 @@ sidebarDepth: 2
 - **前端开发面试题大收集，前端面试集锦 paddingme/Front-end-Web-Development-Interview-Question**
 
 <div class="github-widget" data-repo="paddingme/Front-end-Web-Development-Interview-Question"></div>
-- **前端开发面试题大收集，前端面试集锦 paddingme/Front-end-Web-Development-Interview-Question**
 
-<div class="github-widget" data-repo="paddingme/Front-end-Web-Development-Interview-Question"></div>
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
 
