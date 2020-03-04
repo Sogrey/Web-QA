@@ -249,34 +249,33 @@ sidebarDepth: 2
 
 
 - **yygmind/blog**
-
 <div class="github-widget" data-repo="yygmind/blog"></div>
+
 - **markyun/My-blog**
-
 <div class="github-widget" data-repo="markyun/My-blog"></div>
+
 - **javascript-questions**
-
 <div class="github-widget" data-repo="lydiahallie/javascript-questions"></div>
+
 - **前端面试每日 3+1（每日三问）haizlin/fe-interview**
-
 <div class="github-widget" data-repo="haizlin/fe-interview"></div>
+
 - **cucygh/fe-material** cucygh/fe-material
-
 <div class="github-widget" data-repo="cucygh/fe-material"></div>
+
 - **helloyoucan/knowledge**
-
 <div class="github-widget" data-repo="helloyoucan/knowledge"></div>
+
 - **JavaScript 进阶问题列表 javascript-questions**
-
 <div class="github-widget" data-repo="lydiahallie/javascript-questions"></div>
+
 - **CSS 奇技淫巧 chokcoco/iCSS**
-
 <div class="github-widget" data-repo="chokcoco/iCSS"></div>
+
 - **笔试面试知识整理 HIT-Alibaba/interview**
-
 <div class="github-widget" data-repo="HIT-Alibaba/interview"></div>
-- **前端开发面试题大收集，前端面试集锦 paddingme/Front-end-Web-Development-Interview-Question**
 
+- **前端开发面试题大收集，前端面试集锦 paddingme/Front-end-Web-Development-Interview-Question**
 <div class="github-widget" data-repo="paddingme/Front-end-Web-Development-Interview-Question"></div>
 
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
