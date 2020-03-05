@@ -168,6 +168,7 @@ sidebarDepth: 2
 ### :question:  如何将相同属性的数组对象合并并统计个数？[#157](<https://github.com/Sogrey/Web-QA/issues/157>)
 ### :question:  JS中的“use strict” 严格模式[#158](<https://github.com/Sogrey/Web-QA/issues/158>)
 ### :question:  JS 对象排序，根据对象的某一属性 [#161](<https://github.com/Sogrey/Web-QA/issues/161>)
+### :question:  js实现字符串全部替换的方法 [#162](<https://github.com/Sogrey/Web-QA/issues/162>)
 
 
 ## 📁 模块化&ES5、ES6

@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "start": "vuepress dev docs",
+  "scripts": {    
     "dev": "vuepress dev docs",
+    "start": "npm run dev",
     "build": "vuepress build docs",
     "deploy": "bash deploy.sh",
     "deploy1": "npm run build & cd docs/.vuepress/dist & git init & git add -A & git commit -m 'deploy' & git push -f https://github.com/Sogrey/Web-QA.git master:gh-pages"
