@@ -282,6 +282,9 @@ sidebarDepth: 2
 - **学习前端小帮手：系统学习 JavaScript 的每一个知识点 LFB/frontend**
 <div class="github-widget" data-repo="LFB/frontend"></div>
 
+- **字节、阿里、美团、滴滴、腾讯等大厂高级前端面试题整理 Jack-cool/fe_interview**
+<div class="github-widget" data-repo="Jack-cool/fe_interview"></div>
+
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
 
