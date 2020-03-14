@@ -285,6 +285,9 @@ sidebarDepth: 2
 - **字节、阿里、美团、滴滴、腾讯等大厂高级前端面试题整理 Jack-cool/fe_interview**
 <div class="github-widget" data-repo="Jack-cool/fe_interview"></div>
 
+- **前端面试interview的Js题目收集，持续更新，勿浅尝辄止 nieyafei/front-end-interview-js** [link](http://codehtml.cn/front-end-interview-js/)
+<div class="github-widget" data-repo="nieyafei/front-end-interview-js"></div>
+
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
 
