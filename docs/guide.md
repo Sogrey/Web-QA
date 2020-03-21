@@ -248,6 +248,7 @@ sidebarDepth: 2
 - [JavaScript中各种源码实现（前端面试笔试必备）](https://segmentfault.com/a/1190000021758529)
 - [前端开发文档 @寒青](https://whjin.github.io/frontend-dev-doc/)
 - [FE-Interview 前端面试题整理](http://blog.poetries.top/FE-Interview-Questions/)
+- [前端进阶梳理](http://jimilee.tech/)
 
 - **yygmind/blog**
 
@@ -300,6 +301,7 @@ sidebarDepth: 2
 - **前端面试interview的Js题目收集，持续更新，勿浅尝辄止 nieyafei/front-end-interview-js** [link](http://codehtml.cn/front-end-interview-js/)
 
 <div class="github-widget" data-repo="nieyafei/front-end-interview-js"></div>
+
 
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
