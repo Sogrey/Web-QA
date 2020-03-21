@@ -249,6 +249,7 @@ sidebarDepth: 2
 - [前端开发文档 @寒青](https://whjin.github.io/frontend-dev-doc/)
 - [FE-Interview 前端面试题整理](http://blog.poetries.top/FE-Interview-Questions/)
 - [前端进阶梳理](http://jimilee.tech/)
+- [前端乐园](https://abc-club.github.io/js-paradise/)
 
 - **yygmind/blog**
 
