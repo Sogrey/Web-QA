@@ -249,6 +249,7 @@ sidebarDepth: 2
 - [FE-Interview 前端面试题整理](http://blog.poetries.top/FE-Interview-Questions/)
 - [前端进阶梳理](http://jimilee.tech/)
 - [前端乐园](https://abc-club.github.io/js-paradise/)
+- [174道 JavaScript 面试题，助你查漏补缺](https://segmentfault.com/a/1190000022164672)
 
 - **yygmind/blog**
 
