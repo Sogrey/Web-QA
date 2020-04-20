@@ -250,6 +250,7 @@ sidebarDepth: 2
 - [前端进阶梳理](http://jimilee.tech/)
 - [前端乐园](https://abc-club.github.io/js-paradise/)
 - [174道 JavaScript 面试题，助你查漏补缺](https://segmentfault.com/a/1190000022164672)
+- [2020前端基础包过面试题](https://zhuanlan.zhihu.com/p/92590306)
 
 - **yygmind/blog**
 
@@ -302,6 +303,23 @@ sidebarDepth: 2
 - **前端面试interview的Js题目收集，持续更新，勿浅尝辄止 nieyafei/front-end-interview-js** [link](http://codehtml.cn/front-end-interview-js/)
 
 <div class="github-widget" data-repo="nieyafei/front-end-interview-js"></div>
+
+- **Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore. yangshun/front-end-interview-handbook** 
+
+<div class="github-widget" data-repo="yangshun/front-end-interview-handbook"></div>
+
+- **Help the front End community to rock interview. khan4019/front-end-Interview-Questions** [link](http://www.thatjsdude.com/interview/index.html)
+
+<div class="github-widget" data-repo="khan4019/front-end-Interview-Questions"></div>
+
+- **前端面试复习笔记. CavsZhouyou/Front-End-Interview-Notebook** [link](http://www.thatjsdude.com/interview/index.html)
+
+<div class="github-widget" data-repo="CavsZhouyou/Front-End-Interview-Notebook"></div>
+
+- **A list of interview for front-end developer(前端开发者面试清单). Advanced-Interview-Question/front-end-interview** [link](https://www.cxymsg.com/)
+
+<div class="github-widget" data-repo="Advanced-Interview-Question/front-end-interview"></div>
+
 
 
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
