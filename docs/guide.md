@@ -169,7 +169,7 @@ sidebarDepth: 2
 ### :question:  JS中的“use strict” 严格模式[#158](<https://github.com/Sogrey/Web-QA/issues/158>)
 ### :question:  JS 对象排序，根据对象的某一属性 [#161](<https://github.com/Sogrey/Web-QA/issues/161>)
 ### :question:  js实现字符串全部替换的方法 [#162](<https://github.com/Sogrey/Web-QA/issues/162>)
-
+### :question:  如何删除CSS属性[#163](<https://github.com/Sogrey/Web-QA/issues/163>)
 
 ## 📁 模块化&ES5、ES6
 
