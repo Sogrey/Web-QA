@@ -254,6 +254,7 @@ sidebarDepth: 2
 - [前端乐园](https://abc-club.github.io/js-paradise/)
 - [174道 JavaScript 面试题，助你查漏补缺](https://segmentfault.com/a/1190000022164672)
 - [2020前端基础包过面试题](https://zhuanlan.zhihu.com/p/92590306)
+- [现代 JavaScript 教程](https://zh.javascript.info/)
 
 - **yygmind/blog**
 
