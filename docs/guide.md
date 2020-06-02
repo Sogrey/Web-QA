@@ -172,6 +172,13 @@ sidebarDepth: 2
 ### :question:  如何删除CSS属性[#163](<https://github.com/Sogrey/Web-QA/issues/163>)
 ### :question:  如何快速创建数组[#164](<https://github.com/Sogrey/Web-QA/issues/164>)
 ### :question:  查找数组中某个元素（多次）出现的位置[#165](<https://github.com/Sogrey/Web-QA/issues/165>)
+### :question:  查找数组最大值[#166](<https://github.com/Sogrey/Web-QA/issues/166>)
+### :question:  查找数组最小值[#167](<https://github.com/Sogrey/Web-QA/issues/167>)
+### :question:  按照指定长度分割（一维）数组（成二维数组）[#168](<https://github.com/Sogrey/Web-QA/issues/168>)
+### :question:  检查数组中某元素出现的次数[#169](<https://github.com/Sogrey/Web-QA/issues/169>)
+### :question:  扁平化数组(多维数组并成一维数组)[#170](<https://github.com/Sogrey/Web-QA/issues/170>)
+### :question:  对比两个数组并且返回其中不同的元素[#171](<https://github.com/Sogrey/Web-QA/issues/171>)
+### :question:  对比两个数组并且返回其中相同的元素[#172](<https://github.com/Sogrey/Web-QA/issues/172>)
 
 
 ## 📁 模块化&ES5、ES6
