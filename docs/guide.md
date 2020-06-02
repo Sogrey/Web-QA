@@ -179,7 +179,7 @@ sidebarDepth: 2
 ### :question:  扁平化数组(多维数组并成一维数组)[#170](<https://github.com/Sogrey/Web-QA/issues/170>)
 ### :question:  对比两个数组并且返回其中不同的元素[#171](<https://github.com/Sogrey/Web-QA/issues/171>)
 ### :question:  对比两个数组并且返回其中相同的元素[#172](<https://github.com/Sogrey/Web-QA/issues/172>)
-
+### :question:  正则表达式[#173](<https://github.com/Sogrey/Web-QA/issues/173>)
 
 ## 📁 模块化&ES5、ES6
 
