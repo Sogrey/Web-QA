@@ -180,6 +180,7 @@ sidebarDepth: 2
 ### :question:  对比两个数组并且返回其中不同的元素[#171](<https://github.com/Sogrey/Web-QA/issues/171>)
 ### :question:  对比两个数组并且返回其中相同的元素[#172](<https://github.com/Sogrey/Web-QA/issues/172>)
 ### :question:  正则表达式[#173](<https://github.com/Sogrey/Web-QA/issues/173>)
+### :question:  数组从右删除 n 个元素[#174](<https://github.com/Sogrey/Web-QA/issues/174>)
 
 ## 📁 模块化&ES5、ES6
 
