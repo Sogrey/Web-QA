@@ -185,6 +185,7 @@ sidebarDepth: 2
 ### :question:  返回数组中下标间隔 nth 的元素[#176](<https://github.com/Sogrey/Web-QA/issues/176>)
 ### :question:  返回数组中第 n 个元素（支持负数）[#177](<https://github.com/Sogrey/Web-QA/issues/177>)
 ### :question:  返回数组头元素和末尾元素[#178](<https://github.com/Sogrey/Web-QA/issues/178>)
+### :question:  数组乱排[#180](<https://github.com/Sogrey/Web-QA/issues/180>)
 
 ## 📁 模块化&ES5、ES6
 
