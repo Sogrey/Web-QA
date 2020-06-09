@@ -186,6 +186,7 @@ sidebarDepth: 2
 ### :question:  返回数组中第 n 个元素（支持负数）[#177](<https://github.com/Sogrey/Web-QA/issues/177>)
 ### :question:  返回数组头元素和末尾元素[#178](<https://github.com/Sogrey/Web-QA/issues/178>)
 ### :question:  数组乱排[#180](<https://github.com/Sogrey/Web-QA/issues/180>)
+### :question:  web上失去焦点和获取焦点事件[#181](<https://github.com/Sogrey/Web-QA/issues/181>)
 
 ## 📁 模块化&ES5、ES6
 
