@@ -187,6 +187,10 @@ sidebarDepth: 2
 ### :question:  返回数组头元素和末尾元素[#178](<https://github.com/Sogrey/Web-QA/issues/178>)
 ### :question:  数组乱排[#180](<https://github.com/Sogrey/Web-QA/issues/180>)
 ### :question:  web上失去焦点和获取焦点事件[#181](<https://github.com/Sogrey/Web-QA/issues/181>)
+### :question:  伪数组转换为数组[#182](<https://github.com/Sogrey/Web-QA/issues/182>)
+### :question:  判读浏览器是否支持 CSS 属性[#183](<https://github.com/Sogrey/Web-QA/issues/183>)
+### :question:  获取当前网页地址[#184](<https://github.com/Sogrey/Web-QA/issues/184>)
+
 
 ## 📁 模块化&ES5、ES6
 
