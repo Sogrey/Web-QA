@@ -194,6 +194,19 @@ sidebarDepth: 2
 ### :question:  获取滚动条位置[#186](<https://github.com/Sogrey/Web-QA/issues/186>)
 ### :question:  怎么让Chrome支持小于12px 的文字？[#187](<https://github.com/Sogrey/Web-QA/issues/187>)
 ### :question:  获取 url 中的参数[#188](<https://github.com/Sogrey/Web-QA/issues/188>)
+### :question:  页面跳转，是否记录在 history 中[#189](<https://github.com/Sogrey/Web-QA/issues/189>)
+### :question:  滚动条回到顶部 带动画[#190](<https://github.com/Sogrey/Web-QA/issues/190>)
+### :question:  复制文本到剪贴板[#191](<https://github.com/Sogrey/Web-QA/issues/191>)
+### :question:  检测设备类型[#192](<https://github.com/Sogrey/Web-QA/issues/192>)
+### :question:  时间戳转换为时间 [#193](<https://github.com/Sogrey/Web-QA/issues/193>)
+### :question:  获取当前时间戳 [#194](<https://github.com/Sogrey/Web-QA/issues/194>)
+### :question:  固定滚动条  [#195](<https://github.com/Sogrey/Web-QA/issues/195>)
+### :question:  判断当前位置是否为页面底部  [#196](<https://github.com/Sogrey/Web-QA/issues/196>)
+### :question:  判断元素是否在可视范围内  [#197](<https://github.com/Sogrey/Web-QA/issues/197>)
+### :question:  进入全屏/退出全屏/全屏事件  [#198](<https://github.com/Sogrey/Web-QA/issues/198>)
+### :question:  数字千分位分割  [#199](<https://github.com/Sogrey/Web-QA/issues/199>)
+### :question:  生成随机数 [#200](<https://github.com/Sogrey/Web-QA/issues/200>)
+### :question:  获取元素 css 样式 [#201](<https://github.com/Sogrey/Web-QA/issues/201>)
 
 ## 📁 模块化&ES5、ES6
 
