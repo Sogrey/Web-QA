@@ -207,6 +207,9 @@ sidebarDepth: 2
 ### :question:  数字千分位分割  [#199](<https://github.com/Sogrey/Web-QA/issues/199>)
 ### :question:  生成随机数 [#200](<https://github.com/Sogrey/Web-QA/issues/200>)
 ### :question:  获取元素 css 样式 [#201](<https://github.com/Sogrey/Web-QA/issues/201>)
+### :question:  XSS与CSRF有什么区别吗？ [#202](<https://github.com/Sogrey/Web-QA/issues/202>)
+### :question:  为什么要初始化CSS样式？ [#203](<https://github.com/Sogrey/Web-QA/issues/203>)
+
 
 ## 📁 模块化&ES5、ES6
 
