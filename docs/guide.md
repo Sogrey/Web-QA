@@ -213,6 +213,7 @@ sidebarDepth: 2
 ### :question:  JS事件委托 [#205](<https://github.com/Sogrey/Web-QA/issues/205>)
 ### :question:  js 查询div所有父元素 [#206](<https://github.com/Sogrey/Web-QA/issues/206>)
 
+
 ## 📁 模块化&ES5、ES6
 
 ### :question:  ES6的了解  [#98](<https://github.com/Sogrey/Web-QA/issues/98>) 
