@@ -209,7 +209,9 @@ sidebarDepth: 2
 ### :question:  获取元素 css 样式 [#201](<https://github.com/Sogrey/Web-QA/issues/201>)
 ### :question:  XSS与CSRF有什么区别吗？ [#202](<https://github.com/Sogrey/Web-QA/issues/202>)
 ### :question:  为什么要初始化CSS样式？ [#203](<https://github.com/Sogrey/Web-QA/issues/203>)
-
+### :question:  写一个通用的事件侦听器函数? [#204](<https://github.com/Sogrey/Web-QA/issues/204>)
+### :question:  JS事件委托 [#205](<https://github.com/Sogrey/Web-QA/issues/205>)
+### :question:  js 查询div所有父元素 [#206](<https://github.com/Sogrey/Web-QA/issues/206>)
 
 ## 📁 模块化&ES5、ES6
 
