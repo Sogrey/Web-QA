@@ -364,6 +364,9 @@ sidebarDepth: 2
 
 <div class="github-widget" data-repo="Advanced-Interview-Question/front-end-interview"></div>
 
+- **前端面试必备题库，1000+面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器. lgwebdream/FE-Interview** [link](https://github.com/lgwebdream/FE-Interview/blob/master/summarry/all.md)
+
+<div class="github-widget" data-repo="lgwebdream/FE-Interview"></div>
 
 
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
