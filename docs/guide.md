@@ -212,7 +212,8 @@ sidebarDepth: 2
 ### :question:  写一个通用的事件侦听器函数? [#204](<https://github.com/Sogrey/Web-QA/issues/204>)
 ### :question:  JS事件委托 [#205](<https://github.com/Sogrey/Web-QA/issues/205>)
 ### :question:  js 查询div所有父元素 [#206](<https://github.com/Sogrey/Web-QA/issues/206>)
-
+### :question:  js AMD和CMD的区别？ [#207](<https://github.com/Sogrey/Web-QA/issues/207>)
+### :question:  js 汉字转Unicode [#209](<https://github.com/Sogrey/Web-QA/issues/209>)
 
 ## 📁 模块化&ES5、ES6
 
@@ -225,6 +226,7 @@ sidebarDepth: 2
 ## 📁 node.js
 
 ### :question:  npm 模块安装机制，为什么输入 npm install 就可以自动安装对应的模块？ [#113](<https://github.com/Sogrey/Web-QA/issues/113>) 
+### :question:  Node.js 如何接收用户输入 [#208](<https://github.com/Sogrey/Web-QA/issues/208>) 
 
 ## 📁 react、Vue
 

@@ -1,0 +1,12 @@
+name: Commit Issue Commenter on Sogrey/Web-QA
+
+on: push
+
+jobs:
+  checkCommit:
+    name: Comment From Commit
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Sogrey/Web-QA@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
