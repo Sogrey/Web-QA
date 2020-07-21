@@ -212,7 +212,7 @@ sidebarDepth: 2
 ### :question:  写一个通用的事件侦听器函数? [#204](<https://github.com/Sogrey/Web-QA/issues/204>)
 ### :question:  JS事件委托 [#205](<https://github.com/Sogrey/Web-QA/issues/205>)
 ### :question:  js 查询div所有父元素 [#206](<https://github.com/Sogrey/Web-QA/issues/206>)
-### :question:  js AMD和CMD的区别？ [#207](<https://github.com/Sogrey/Web-QA/issues/207>)
+### :question:  AMD和CMD的区别？ [#207](<https://github.com/Sogrey/Web-QA/issues/207>)
 ### :question:  js 汉字转Unicode [#209](<https://github.com/Sogrey/Web-QA/issues/209>)
 
 ## 📁 模块化&ES5、ES6
