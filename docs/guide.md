@@ -214,6 +214,10 @@ sidebarDepth: 2
 ### :question:  js 查询div所有父元素 [#206](<https://github.com/Sogrey/Web-QA/issues/206>)
 ### :question:  AMD和CMD的区别？ [#207](<https://github.com/Sogrey/Web-QA/issues/207>)
 ### :question:  js 汉字转Unicode [#209](<https://github.com/Sogrey/Web-QA/issues/209>)
+### :question:  获取网站的图标 [#210](<https://github.com/Sogrey/Web-QA/issues/210>)
+### :question:  写一个等分字符串的方法 [#211](<https://github.com/Sogrey/Web-QA/issues/211>)
+### :question:  js在字符串的指定位置插入新的字符 [#212](<https://github.com/Sogrey/Web-QA/issues/212>)
+### :question:  setTimeout 和 setInterval区别 [#224](<https://github.com/Sogrey/Web-QA/issues/224>)
 
 ## 📁 模块化&ES5、ES6
 
@@ -222,6 +226,20 @@ sidebarDepth: 2
 ### :question:  ES5的继承和ES6的继承有什么区别？ [#114](<https://github.com/Sogrey/Web-QA/issues/114>) 
 ### :question:  ES6下 `for-in` 循环的坑 [#159](<https://github.com/Sogrey/Web-QA/issues/159>) 
 ### :question:  JavaScript 中，class 能够创建一个类，function 也能创建一个类，两者创建的类有什么区别？[#160](<https://github.com/Sogrey/Web-QA/issues/160>)
+### :question:  Proxy是什么，有什么作用？ [#223](<https://github.com/Sogrey/Web-QA/issues/223>)
+### :question:  Map是什么，有什么作用？ [#222](<https://github.com/Sogrey/Web-QA/issues/222>)
+### :question:  Set是什么，有什么作用？ [#221](<https://github.com/Sogrey/Web-QA/issues/221>)
+### :question:  Symbol是什么，有什么作用？ [#220](<https://github.com/Sogrey/Web-QA/issues/220>)
+### :question:  举一些ES6对Function函数类型做的常用升级优化? [#219](<https://github.com/Sogrey/Web-QA/issues/219>)
+### :question:  举一些ES6对Object类型做的常用升级优化? [#218](<https://github.com/Sogrey/Web-QA/issues/218>)
+### :question:  举一些ES6对Number数字类型做的常用升级优化? [#217](<https://github.com/Sogrey/Web-QA/issues/217>)
+### :question:  举一些ES6对Array数组类型做的常用升级优化? [#216](<https://github.com/Sogrey/Web-QA/issues/216>)
+### :question:  举一些ES6对String字符串类型做的常用升级优化? [#215](<https://github.com/Sogrey/Web-QA/issues/215>)
+### :question:  babel是什么，有什么作用? [#214](<https://github.com/Sogrey/Web-QA/issues/214>)
+### :question:  ES5、ES6和ES2015有什么区别? [#213](<https://github.com/Sogrey/Web-QA/issues/213>)
+### :question:  Reflect是什么，有什么作用？ [#225](<https://github.com/Sogrey/Web-QA/issues/225>)
+### :question:  Promise是什么，有什么作用？ [#226](<https://github.com/Sogrey/Web-QA/issues/226>)
+### :question:  Iterator是什么，有什么作用？ [#227](<https://github.com/Sogrey/Web-QA/issues/227>)
 
 ## 📁 node.js
 
@@ -369,6 +387,11 @@ sidebarDepth: 2
 - **前端面试必备题库，1000+面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器. lgwebdream/FE-Interview** [link](https://github.com/lgwebdream/FE-Interview/blob/master/summarry/all.md)
 
 <div class="github-widget" data-repo="lgwebdream/FE-Interview"></div>
+
+- **前端乐园 abc-club/js-paradise** [link](https://share.aoping.club/)
+
+<div class="github-widget" data-repo="abc-club/js-paradise"></div>
+
 
 
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
