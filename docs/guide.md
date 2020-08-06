@@ -392,6 +392,9 @@ sidebarDepth: 2
 
 <div class="github-widget" data-repo="abc-club/js-paradise"></div>
 
+- **本仓库是自己总结的前端开发一些基础知识，包括html5，css3， canvas， jQuery， less ，ES6， webpack，Vue等，同时也是自己工作中的踩坑总结，适合想要学习前端开发的伙伴，你可以clone项目到本地，然后一步一步跟着我的demo敲，希望大家都能全栈。 pubdreamcc/web-study**
+
+<div class="github-widget" data-repo="pubdreamcc/web-study"></div>
 
 
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
