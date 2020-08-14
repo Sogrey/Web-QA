@@ -400,6 +400,10 @@ sidebarDepth: 2
 
 <div class="github-widget" data-repo="lf2021/Front-End-Interview"></div>
 
+- **前端面试知识点总结 huyaocode/webKnowledge**
+
+<div class="github-widget" data-repo="huyaocode/webKnowledge"></div>
+
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
 
