@@ -13,7 +13,7 @@ sidebarDepth: 2
 
 
 
-## :file_folder:HTMl
+## :file_folder:HTML
 
 ### :question: html5有哪些新特性、移除了那些元素？如何处理HTML5新标签的浏览器兼容问题？如何区分 HTML 和 HTML5？[#27](<https://github.com/Sogrey/Web-QA/issues/27>)
 ### :question:  iframe的优缺点？[#28](<https://github.com/Sogrey/Web-QA/issues/28>)
@@ -218,6 +218,14 @@ sidebarDepth: 2
 ### :question:  写一个等分字符串的方法 [#211](<https://github.com/Sogrey/Web-QA/issues/211>)
 ### :question:  js在字符串的指定位置插入新的字符 [#212](<https://github.com/Sogrey/Web-QA/issues/212>)
 ### :question:  setTimeout 和 setInterval区别 [#224](<https://github.com/Sogrey/Web-QA/issues/224>)
+### :question:  && 运算符能做什么 [#234](<https://github.com/Sogrey/Web-QA/issues/234>)
+### :question:  || 运算符能做什么 [#235](<https://github.com/Sogrey/Web-QA/issues/235>)
+### :question:  event.preventDefault() 和 event.stopPropagation()方法之间有什么区别？ [#240](<https://github.com/Sogrey/Web-QA/issues/240>)
+### :question:  如何知道是否在元素中使用了`event.preventDefault()`方法？ [#241](<https://github.com/Sogrey/Web-QA/issues/241>)
+### :question:  什么是 event.target ？ [#242](<https://github.com/Sogrey/Web-QA/issues/242>)
+### :question:  什么是 event.currentTarget？ [#243](<https://github.com/Sogrey/Web-QA/issues/243>)
+### :question:  == 和 === 有什么区别？ [#244](<https://github.com/Sogrey/Web-QA/issues/244>)
+### :question:  为什么在 JS 中比较两个相似的对象时返回 false？ [#245](<https://github.com/Sogrey/Web-QA/issues/245>)
 
 ## 📁 模块化&ES5、ES6
 
@@ -240,6 +248,14 @@ sidebarDepth: 2
 ### :question:  Reflect是什么，有什么作用？ [#225](<https://github.com/Sogrey/Web-QA/issues/225>)
 ### :question:  Promise是什么，有什么作用？ [#226](<https://github.com/Sogrey/Web-QA/issues/226>)
 ### :question:  Iterator是什么，有什么作用？ [#227](<https://github.com/Sogrey/Web-QA/issues/227>)
+
+### :question:  for...in 和for...of有什么区别 [#228](<https://github.com/Sogrey/Web-QA/issues/228>)
+### :question:  Generator函数是什么，有什么作用？ [#229](<https://github.com/Sogrey/Web-QA/issues/229>)
+### :question:  async函数是什么，有什么作用？ [#230](<https://github.com/Sogrey/Web-QA/issues/230>)
+### :question:  Class、extends是什么，有什么作用？ [#231](<https://github.com/Sogrey/Web-QA/issues/31>)
+### :question:  module、export、import是什么，有什么作用？ [#232](<https://github.com/Sogrey/Web-QA/issues/232>)
+### :question:  日常前端代码开发中，有哪些值得用ES6去改进的编程优化或者规范？ [#233](<https://github.com/Sogrey/Web-QA/issues/233>)
+
 
 ## 📁 node.js
 
@@ -267,6 +283,10 @@ sidebarDepth: 2
 ### :question:  简述HTTPS中间人攻击 [#128](<https://github.com/Sogrey/Web-QA/issues/128>) 
 ### :question:  你了解的浏览器的重绘和回流导致的性能问题 [#130](<https://github.com/Sogrey/Web-QA/issues/130>) 
 ### :question:  CS和BS 到底是什么 [#143](<https://github.com/Sogrey/Web-QA/issues/143>) 
+### :question:  OM 是什么？ [#236](<https://github.com/Sogrey/Web-QA/issues/236>) 
+### :question:  什么是事件传播? [#237](<https://github.com/Sogrey/Web-QA/issues/237>) 
+### :question:  什么是事件冒泡？ [#238](<https://github.com/Sogrey/Web-QA/issues/238>) 
+### :question:  什么是事件捕获？ [#239](<https://github.com/Sogrey/Web-QA/issues/239>) 
 
 ## 📁 网站及优化
 
@@ -403,6 +423,11 @@ sidebarDepth: 2
 - **前端面试知识点总结 huyaocode/webKnowledge**
 
 <div class="github-widget" data-repo="huyaocode/webKnowledge"></div>
+
+- **前端基础知识汇总 su37josephxia/frontend-basic** [link](https://www.josephxia.com/)
+
+<div class="github-widget" data-repo="su37josephxia/frontend-basic"></div>
+
 
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
