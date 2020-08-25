@@ -428,6 +428,9 @@ sidebarDepth: 2
 
 <div class="github-widget" data-repo="su37josephxia/frontend-basic"></div>
 
+- **前端面试常考问题整理，按模块知识点分类 Front-end-Developer-Questions by Modules and knowledge poetries/FE-Interview-Questions** [link](https://poetries1.gitee.io/fe-interview)
+
+<div class="github-widget" data-repo="poetries/FE-Interview-Questions"></div>
 
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
