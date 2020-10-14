@@ -226,6 +226,30 @@ sidebarDepth: 2
 ### :question:  什么是 event.currentTarget？ [#243](<https://github.com/Sogrey/Web-QA/issues/243>)
 ### :question:  == 和 === 有什么区别？ [#244](<https://github.com/Sogrey/Web-QA/issues/244>)
 ### :question:  为什么在 JS 中比较两个相似的对象时返回 false？ [#245](<https://github.com/Sogrey/Web-QA/issues/245>)
+### :question:  !! 运算符能做什么？ [#246](<https://github.com/Sogrey/Web-QA/issues/246>)
+### :question:  如何在一行中计算多个表达式的值？ [#247](<https://github.com/Sogrey/Web-QA/issues/247>)
+### :question:  什么是提升？ [#248](<https://github.com/Sogrey/Web-QA/issues/248>)
+### :question:  什么是作用域？ [#249](<https://github.com/Sogrey/Web-QA/issues/249>)
+### :question:  JavaScript 中的虚值是什么？如何检查值是否虚值？ [#250](<https://github.com/Sogrey/Web-QA/issues/250>)
+### :question:  JS实现颜色的10进制转化成rgba格式的方法 [#251](<https://github.com/Sogrey/Web-QA/issues/251>)
+### :question:  对象的 prototype(原型) 是什么？  [#252](<https://github.com/Sogrey/Web-QA/issues/252>)
+### :question:  什么是 IIFE，它的用途是什么？  [#253](<https://github.com/Sogrey/Web-QA/issues/253>)
+### :question:  Function.prototype.apply 方法的用途是什么？ [#254](<https://github.com/Sogrey/Web-QA/issues/254>)
+### :question:  Function.prototype.call 方法的用途是什么？ [#255](<https://github.com/Sogrey/Web-QA/issues/255>)
+### :question:  Function.prototype.apply 和 Function.prototype.call 之间有什么区别？ [#256](<https://github.com/Sogrey/Web-QA/issues/256>)
+### :question:  Function.prototype.bind 的用途是什么？ [#257](<https://github.com/Sogrey/Web-QA/issues/257>)
+### :question:  什么是函数式编程? JavaScript 的哪些特性使其成为函数式语言的候选语言？ [#258](<https://github.com/Sogrey/Web-QA/issues/258>)
+### :question:  什么是高阶函数？ [#259](<https://github.com/Sogrey/Web-QA/issues/259>)
+### :question:  为什么函数被称为一等公民？ [#260](<https://github.com/Sogrey/Web-QA/issues/260>)
+### :question:  手动实现 Array.prototype.map 方法 [#261](<https://github.com/Sogrey/Web-QA/issues/261>)
+### :question:  手动实现 Array.prototype.filter 方法 [#262](<https://github.com/Sogrey/Web-QA/issues/262>)
+### :question:  手动实现 Array.prototype.reduce 方法 [#263](<https://github.com/Sogrey/Web-QA/issues/263>)
+### :question:  arguments 的对象是什么？ [#264](<https://github.com/Sogrey/Web-QA/issues/264>)
+### :question:  页面导入样式时，使用link和@import有什么区别？ [#265](<https://github.com/Sogrey/Web-QA/issues/265>)
+### :question:  如何创建一个没有 prototype(原型)的对象？ [#266](<https://github.com/Sogrey/Web-QA/issues/266>)
+### :question:  为什么在调用这个函数时，代码中的`b`会变成一个全局变量? [#267](<https://github.com/Sogrey/Web-QA/issues/267>)
+### :question:  ECMAScript 是什么？ [#268](<https://github.com/Sogrey/Web-QA/issues/268>)
+### :question:  ES6或ECMAScript 2015有哪些新特性？ [#269](<https://github.com/Sogrey/Web-QA/issues/269>)
 
 ## 📁 模块化&ES5、ES6
 
@@ -255,7 +279,7 @@ sidebarDepth: 2
 ### :question:  Class、extends是什么，有什么作用？ [#231](<https://github.com/Sogrey/Web-QA/issues/31>)
 ### :question:  module、export、import是什么，有什么作用？ [#232](<https://github.com/Sogrey/Web-QA/issues/232>)
 ### :question:  日常前端代码开发中，有哪些值得用ES6去改进的编程优化或者规范？ [#233](<https://github.com/Sogrey/Web-QA/issues/233>)
-
+### :question:  什么是箭头函数？ [#270](<https://github.com/Sogrey/Web-QA/issues/270>)
 
 ## 📁 node.js
 
