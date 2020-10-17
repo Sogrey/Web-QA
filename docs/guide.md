@@ -280,6 +280,10 @@ sidebarDepth: 2
 ### :question:  module、export、import是什么，有什么作用？ [#232](<https://github.com/Sogrey/Web-QA/issues/232>)
 ### :question:  日常前端代码开发中，有哪些值得用ES6去改进的编程优化或者规范？ [#233](<https://github.com/Sogrey/Web-QA/issues/233>)
 ### :question:  什么是箭头函数？ [#270](<https://github.com/Sogrey/Web-QA/issues/270>)
+### :question:  什么是类？ [#271](<https://github.com/Sogrey/Web-QA/issues/271>)
+### :question:  什么是模板字符串？ [#272](<https://github.com/Sogrey/Web-QA/issues/272>)
+### :question:  什么是对象解构？ [#273](<https://github.com/Sogrey/Web-QA/issues/273>)
+### :question:  什么是 ES6 模块？ [#274](<https://github.com/Sogrey/Web-QA/issues/274>)
 
 ## 📁 node.js
 
