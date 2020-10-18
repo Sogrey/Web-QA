@@ -250,6 +250,12 @@ sidebarDepth: 2
 ### :question:  为什么在调用这个函数时，代码中的`b`会变成一个全局变量? [#267](<https://github.com/Sogrey/Web-QA/issues/267>)
 ### :question:  ECMAScript 是什么？ [#268](<https://github.com/Sogrey/Web-QA/issues/268>)
 ### :question:  ES6或ECMAScript 2015有哪些新特性？ [#269](<https://github.com/Sogrey/Web-QA/issues/269>)
+### :question:  什么是`Set`对象，它是如何工作的？ [#275](<https://github.com/Sogrey/Web-QA/issues/275>)
+### :question:  什么是回调函数？ [#276](<https://github.com/Sogrey/Web-QA/issues/276>)
+### :question:  Promise 是什么？ [#277](<https://github.com/Sogrey/Web-QA/issues/277>)
+### :question:  什么是 `async/await` 及其如何工作？ [#278](<https://github.com/Sogrey/Web-QA/issues/278>)
+
+
 
 ## 📁 模块化&ES5、ES6
 
@@ -284,6 +290,8 @@ sidebarDepth: 2
 ### :question:  什么是模板字符串？ [#272](<https://github.com/Sogrey/Web-QA/issues/272>)
 ### :question:  什么是对象解构？ [#273](<https://github.com/Sogrey/Web-QA/issues/273>)
 ### :question:  什么是 ES6 模块？ [#274](<https://github.com/Sogrey/Web-QA/issues/274>)
+### :question:  展开(spread )运算符和 剩余(Rest) 运算符有什么区别？ [#279](<https://github.com/Sogrey/Web-QA/issues/279>)
+### :question:  什么是默认参数？ [#280](<https://github.com/Sogrey/Web-QA/issues/280>)
 
 ## 📁 node.js
 
