@@ -254,7 +254,16 @@ sidebarDepth: 2
 ### :question:  什么是回调函数？ [#276](<https://github.com/Sogrey/Web-QA/issues/276>)
 ### :question:  Promise 是什么？ [#277](<https://github.com/Sogrey/Web-QA/issues/277>)
 ### :question:  什么是 `async/await` 及其如何工作？ [#278](<https://github.com/Sogrey/Web-QA/issues/278>)
-
+### :question:  什么是包装对象（wrapper object）？ [#281](<https://github.com/Sogrey/Web-QA/issues/281>)
+### :question:  隐式和显式转换有什么区别？ [#282](<https://github.com/Sogrey/Web-QA/issues/282>)
+### :question:  什么是NaN？以及如何检查值是否为NaN？ [#283](<https://github.com/Sogrey/Web-QA/issues/283>)
+### :question:  如何判断值是否为数组？ [#284](<https://github.com/Sogrey/Web-QA/issues/284>)
+### :question:  如何在不使用`%`模运算符的情况下检查一个数字是否是偶数？ [#285](<https://github.com/Sogrey/Web-QA/issues/285>)
+### :question:  如何检查对象中是否存在某个属性？ [#286](<https://github.com/Sogrey/Web-QA/issues/286>)
+### :question:  如何在 JS 中创建对象？ [#287](<https://github.com/Sogrey/Web-QA/issues/287>)
+### :question:  Object.seal 和 Object.freeze 方法之间有什么区别？ [#288](<https://github.com/Sogrey/Web-QA/issues/288>)
+### :question:  `in` 运算符和 `Object.hasOwnProperty` 方法有什么区别？ [#289](<https://github.com/Sogrey/Web-QA/issues/289>)
+### :question:  函数表达式和函数声明之间有什么区别？ [#290](<https://github.com/Sogrey/Web-QA/issues/290>)
 
 
 ## 📁 模块化&ES5、ES6
