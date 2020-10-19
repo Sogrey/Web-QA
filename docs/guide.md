@@ -264,7 +264,15 @@ sidebarDepth: 2
 ### :question:  Object.seal 和 Object.freeze 方法之间有什么区别？ [#288](<https://github.com/Sogrey/Web-QA/issues/288>)
 ### :question:  `in` 运算符和 `Object.hasOwnProperty` 方法有什么区别？ [#289](<https://github.com/Sogrey/Web-QA/issues/289>)
 ### :question:  函数表达式和函数声明之间有什么区别？ [#290](<https://github.com/Sogrey/Web-QA/issues/290>)
-
+### :question:  调用函数，可以使用哪些方法？ [#291](<https://github.com/Sogrey/Web-QA/issues/291>)
+### :question:  为什么typeof null 返回 object？如何检查一个值是否为 null？ [#292](<https://github.com/Sogrey/Web-QA/issues/292>)
+### :question:  new 关键字有什么作用？ [#293](<https://github.com/Sogrey/Web-QA/issues/293>)
+### :question:  Object.freeze() 和 const 的区别是什么？ [#295](<https://github.com/Sogrey/Web-QA/issues/295>)
+### :question:  如何在js"深冻结"对象？ [#296](<https://github.com/Sogrey/Web-QA/issues/296>)
+### :question:  在 JavaScript 中定义函数的14种方法 [#297](<https://github.com/Sogrey/Web-QA/issues/297>)
+### :question:  什么是类数组对象？ [#298](<https://github.com/Sogrey/Web-QA/issues/298>)
+### :question:  传递两个参数m，n，返回长度为m，所有元素都为n的数组，要求不能用循环 [#299](<https://github.com/Sogrey/Web-QA/issues/299>)
+### :question:  Array的join、push、splice、slice各有何用途，splice与slice有何异同？ [#300](<https://github.com/Sogrey/Web-QA/issues/300>)
 
 ## 📁 模块化&ES5、ES6
 
@@ -287,7 +295,6 @@ sidebarDepth: 2
 ### :question:  Reflect是什么，有什么作用？ [#225](<https://github.com/Sogrey/Web-QA/issues/225>)
 ### :question:  Promise是什么，有什么作用？ [#226](<https://github.com/Sogrey/Web-QA/issues/226>)
 ### :question:  Iterator是什么，有什么作用？ [#227](<https://github.com/Sogrey/Web-QA/issues/227>)
-
 ### :question:  for...in 和for...of有什么区别 [#228](<https://github.com/Sogrey/Web-QA/issues/228>)
 ### :question:  Generator函数是什么，有什么作用？ [#229](<https://github.com/Sogrey/Web-QA/issues/229>)
 ### :question:  async函数是什么，有什么作用？ [#230](<https://github.com/Sogrey/Web-QA/issues/230>)
@@ -301,6 +308,7 @@ sidebarDepth: 2
 ### :question:  什么是 ES6 模块？ [#274](<https://github.com/Sogrey/Web-QA/issues/274>)
 ### :question:  展开(spread )运算符和 剩余(Rest) 运算符有什么区别？ [#279](<https://github.com/Sogrey/Web-QA/issues/279>)
 ### :question:  什么是默认参数？ [#280](<https://github.com/Sogrey/Web-QA/issues/280>)
+### :question:  什么时候不使用箭头函数? 说出三个或更多的例子？ [#294](<https://github.com/Sogrey/Web-QA/issues/294>)
 
 ## 📁 node.js
 
