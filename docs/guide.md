@@ -283,6 +283,9 @@ sidebarDepth: 2
 ### :question:  图片懒加载 [#308](<https://github.com/Sogrey/Web-QA/issues/308>)
 ### :question:  滚动加载 [#309](<https://github.com/Sogrey/Web-QA/issues/309>)
 ### :question:  渲染几万条数据不卡住页面 [#310](<https://github.com/Sogrey/Web-QA/issues/310>)
+### :question:  打印出当前网页使用了多少种HTML元素 [#311](<https://github.com/Sogrey/Web-QA/issues/311>)
+### :question:  js中判断两个数组是否相等 [#312](<https://github.com/Sogrey/Web-QA/issues/312>)
+### :question:  获取div相对文档的位置 [#313](<https://github.com/Sogrey/Web-QA/issues/313>)
 
 ## 📁 模块化&ES5、ES6
 
