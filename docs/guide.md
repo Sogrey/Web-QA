@@ -286,6 +286,7 @@ sidebarDepth: 2
 ### :question:  打印出当前网页使用了多少种HTML元素 [#311](<https://github.com/Sogrey/Web-QA/issues/311>)
 ### :question:  js中判断两个数组是否相等 [#312](<https://github.com/Sogrey/Web-QA/issues/312>)
 ### :question:  获取div相对文档的位置 [#313](<https://github.com/Sogrey/Web-QA/issues/313>)
+### :question:  由平面圆弧上两点坐标及圆半径，计算圆心坐标 [#314](<https://github.com/Sogrey/Web-QA/issues/314>)
 
 ## 📁 模块化&ES5、ES6
 
