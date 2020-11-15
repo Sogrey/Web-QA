@@ -287,6 +287,8 @@ sidebarDepth: 2
 ### :question:  js中判断两个数组是否相等 [#312](<https://github.com/Sogrey/Web-QA/issues/312>)
 ### :question:  获取div相对文档的位置 [#313](<https://github.com/Sogrey/Web-QA/issues/313>)
 ### :question:  由平面圆弧上两点坐标及圆半径，计算圆心坐标 [#314](<https://github.com/Sogrey/Web-QA/issues/314>)
+### :question:  计算两个向量的夹角（带方向） [#316](<https://github.com/Sogrey/Web-QA/issues/316>)
+### :question:  实现链式调用 [#317](<https://github.com/Sogrey/Web-QA/issues/317>)
 
 ## 📁 模块化&ES5、ES6
 
@@ -323,6 +325,7 @@ sidebarDepth: 2
 ### :question:  展开(spread )运算符和 剩余(Rest) 运算符有什么区别？ [#279](<https://github.com/Sogrey/Web-QA/issues/279>)
 ### :question:  什么是默认参数？ [#280](<https://github.com/Sogrey/Web-QA/issues/280>)
 ### :question:  什么时候不使用箭头函数? 说出三个或更多的例子？ [#294](<https://github.com/Sogrey/Web-QA/issues/294>)
+### :question:  什么是Babel，Babel能做什么 [#315](<https://github.com/Sogrey/Web-QA/issues/315>)
 
 ## 📁 node.js
 
