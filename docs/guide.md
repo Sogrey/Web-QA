@@ -290,7 +290,6 @@ sidebarDepth: 2
 ### :question:  计算两个向量的夹角（带方向） [#316](<https://github.com/Sogrey/Web-QA/issues/316>)
 ### :question:  实现链式调用 [#317](<https://github.com/Sogrey/Web-QA/issues/317>)
 
-
 ## 📁 模块化&ES5、ES6
 
 ### :question:  ES6的了解  [#98](<https://github.com/Sogrey/Web-QA/issues/98>) 
