@@ -1,0 +1,20 @@
+{
+  "name": "Sogrey",
+  "short_name": "Sogrey",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2196f3",
+  "description": "前端技术面试题",
+  "theme_color": "blue",
+  "icons": [
+    {
+      "src": "./photo.png",
+      "type": "image/png"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    }
+  ]
+}
