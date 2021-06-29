@@ -523,6 +523,10 @@ sidebarDepth: 2
 
 <div class="github-widget" data-repo="poetries/FE-Interview-Questions"></div>
 
+- **前端面试题汇总 yangjie2021/interview-frontend** 
+
+<div class="github-widget" data-repo="yangjie2021/interview-frontend"></div>
+
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
 
