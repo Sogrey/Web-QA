@@ -310,6 +310,7 @@ sidebarDepth: 2
 ### :question:  实现一个防抖函数 [#336](<https://github.com/Sogrey/Web-QA/issues/336>)
 ### :question:  js 操作获取和设置 cookie  [#337](<https://github.com/Sogrey/Web-QA/issues/337>)
 ### :question:  实现一个find函数，模拟原生的find函数，find(list, predicate)。  [#338](<https://github.com/Sogrey/Web-QA/issues/338>)
+### :question:  去除富文本所有html标签  [#345](<https://github.com/Sogrey/Web-QA/issues/345>)
 
 ## 📁 模块化&ES5、ES6
 
