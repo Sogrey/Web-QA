@@ -529,5 +529,9 @@ sidebarDepth: 2
 
 <div class="github-widget" data-repo="yangjie2021/interview-frontend"></div>
 
+- **前端面试派 mianshipai/mianshipai-web** [link](https://www.mianshipai.com/)
+
+<div class="github-widget" data-repo="mianshipai/mianshipai-web"></div>
+
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
