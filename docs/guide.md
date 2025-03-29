@@ -533,5 +533,9 @@ sidebarDepth: 2
 
 <div class="github-widget" data-repo="mianshipai/mianshipai-web"></div>
 
+- **最新前端技术文章并自动分类 ChanceYu/front-end-rss** [link](https://fed.chanceyu.com/)
+
+<div class="github-widget" data-repo="ChanceYu/front-end-rss"></div>
+
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
 
